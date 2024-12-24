@@ -1,0 +1,11 @@
+Package: linux-headers-4.14.190-microsoft-epsilon
+Source: linux-android-microsoft-epsilon
+Version: 0.0.0+git20241222032034.4da3a92.droidian
+Architecture: arm64
+Maintainer: Droidian porters <info@droidian.org>
+Installed-Size: 54804
+Depends: linux-image-4.14.190-microsoft-epsilon (= 0.0.0+git20241222032034.4da3a92.droidian)
+Section: kernel
+Priority: optional
+Description: Linux kernel for Microsoft Surface Duo - Headers
+ This package contains the Linux kernel headers for the Microsoft Surface Duo device.

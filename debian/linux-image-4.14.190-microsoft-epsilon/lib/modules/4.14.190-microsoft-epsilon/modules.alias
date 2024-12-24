@@ -1,0 +1,10 @@
+# Aliases extracted from modules themselves.
+alias of:N*T*Cqcom,llcc-perfmon llcc_perfmon
+alias of:N*T*Cqcom,llcc-perfmonC* llcc_perfmon
+alias rtnl-link-vxlan vxlan
+alias spi:hid spi_hid
+alias spi:hid-over-spi spi_hid
+alias of:N*T*Chid-over-spi spi_hid
+alias of:N*T*Chid-over-spiC* spi_hid
+alias ipt_ipvs xt_ipvs
+alias ip6t_ipvs xt_ipvs

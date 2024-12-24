@@ -1,0 +1,5 @@
+# Automatically added by dh_installmodules/13.20
+if [ -e /boot/System.map-4.14.190-microsoft-epsilon ]; then
+	depmod -a -F /boot/System.map-4.14.190-microsoft-epsilon 4.14.190-microsoft-epsilon || true
+fi
+# End automatically added section
